@@ -6,9 +6,9 @@ each HTML element comes with a default display value depending what type of elem
 ## Block Element
 1. always starts with new line
 2. takes up full width(stretchs out to left or right as far as it can)
-Eg. div,p,h1-h6
+3. #### Eg. div,p,h1-h6
 
 ## Inline Element
 1. does not starts with new line
 2. takes width as necessary
-Eg. span,a,img
+3. #### Eg. span,a,img
