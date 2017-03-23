@@ -30,3 +30,4 @@ child process api or cluster api
 running multiple server on a single port which will then be load-balanced by HAProxy or Nginx.
 why do i need to install pm2 globally
 in point 3.4 will OS ocupy the memry for master ever if we terminate master after creating a child 
+pm2 is opening cmd(terminal) for a fraction of seconds when i run pm2 server.js --watch command
