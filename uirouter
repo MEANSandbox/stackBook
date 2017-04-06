@@ -1,0 +1,20 @@
+what are the things that came in your mind when you start thinking about ui router ?
+
+1.reslove thing
+2. multi state
+3. query url in angular
+
+API
+
+modules
+ui.router
+ui.router
+        .router
+            1. Service $urlRouter(Provider)
+        .state
+            1. Directives ui-sref/ui-sref-active/ui-sref-active-eq/ui-state/ui-view 
+            2. Filter includedByState isState 
+            3. Service $state/$uiViewScroll/$view (Provider)
+        .util
+            1. module Type/UrlMatcher
+            2. Service $resolve/$templateFactory/$urlMatcherFactory
